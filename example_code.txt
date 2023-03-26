@@ -1,0 +1,1 @@
+hello = 25 storing the value 25 in attribute hello
